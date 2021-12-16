@@ -1,0 +1,22 @@
+{
+  "version": "4",
+  "groupKey": "hello",
+  "truncatedAlerts": 0,
+  "status": "<resolved|firing>",
+  "receiver": "localhost:6000",
+  "groupLabels": null,
+  "commonLabels": null,
+  "commonAnnotations": null,
+  "externalURL": "",
+  "alerts": [
+    {
+      "status": "<resolved|firing>",
+      "labels": null,
+      "annotations": null,
+      "startsAt": "2006-01-02T15:04:05Z",
+      "endsAt": "2006-01-02T15:04:05Z",
+      "generatorURL": "http://localhost:6000",
+      "fingerprint": "ASDSADSAD"
+    }
+  ]
+}
